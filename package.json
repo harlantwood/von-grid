@@ -26,5 +26,8 @@
     "gulp-wrap": "^0.11.0",
     "run-sequence": "^1.0.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "gulp": "gulp"
+  }
 }
